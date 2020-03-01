@@ -2,6 +2,7 @@ package lab.example.beforerefactoring;
 
 public class HouseTemplate {
 
+    //everything hahs buildFoundation() and buildWindows()
     public void buildWoodenHouse(){
         buildFoundation();
         buildWoodenPillars();

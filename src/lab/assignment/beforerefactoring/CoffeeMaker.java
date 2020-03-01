@@ -18,7 +18,7 @@ public class CoffeeMaker {
         System.out.println(">>Serving coffee");
     }
 
-    private void boilWater() {
+    protected void boilWater() {
         System.out.println("Boiling water");
     }
 
